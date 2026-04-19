@@ -1,0 +1,8 @@
+{
+  "name": "Irfan CloudStream Repo",
+  "description": "My first CloudStream repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/gamerirfanshaikh742-design/cloudstream-repo/main/plugins.json"
+  ]
+}
